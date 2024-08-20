@@ -9,17 +9,11 @@
 
 - 🌱 I’m currently learning **Echidna,slyther and smart contract auditing**
 
-- 👯 I’m looking to collaborate on **blockchain roles**
-
-- 🤝 I’m looking for help with **remote work opportunities.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/blackbeard002?tab=repositories](https://github.com/blackbeard002?tab=repositories)
 
 - 💬 Ask me about **solidity,ethereum,blockchain**
 
 - 📫 How to reach me **deepuharry02@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1bjc5iK5hAT7gjElzM5rFiJKGDpy2opsf?usp=drive_link](https://drive.google.com/drive/folders/1bjc5iK5hAT7gjElzM5rFiJKGDpy2opsf?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
