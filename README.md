@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/blackbeard00002" target="blank"><img src="https://img.shields.io/twitter/follow/blackbeard00002?logo=twitter&style=for-the-badge" alt="blackbeard00002" /></a> </p>
 
-- 🔭 I’m currently working on **solidity smart contracts**
+- 🔭 I’m currently working on **Bridging multiple chains**
 
-- 🌱 I’m currently learning **Echidna,slyther and smart contract auditing**
+- 🌱 I’m currently learning **solana smart contracts and building layer 1 chains**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blackbeard002?tab=repositories](https://github.com/blackbeard002?tab=repositories)
 
-- 💬 Ask me about **solidity,ethereum,blockchain**
+- 💬 Ask me about **solidity,ethereum,solana,rust,blockchain**
 
 - 📫 How to reach me **deepuharry02@gmail.com**
 
